@@ -1,0 +1,3 @@
+IDEE: ECLIPSE (v. Mars)
+   |-> add plugin git ( add repo: eGit - http://download.eclipse.org/egit/updates - select all item and install)
+ 
