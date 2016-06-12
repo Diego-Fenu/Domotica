@@ -1,4 +1,8 @@
 IDEE: ECLIPSE (v. Mars)
-   |-> add plugin git ( add repo: eGit - http://download.eclipse.org/egit/updates - select all item and install)
-   |-> guide setup http://stackoverflow.com/questions/21473308/integrating-eclipse-and-github
- 
+GIT
+   |-> guide https://www.youtube.com/watch?v=ptK9-CNms98 
+   |-> plugin git ( add repo: eGit - http://download.eclipse.org/egit/updates - select all item and install)
+   OR -> guide setup http://stackoverflow.com/questions/21473308/integrating-eclipse-and-github
+Alternative 
+SVN
+   |-> guide https://www.youtube.com/watch?v=Uez1nDLvMEA
